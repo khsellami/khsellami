@@ -21,5 +21,5 @@
 ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsellami&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/khadija-sellami-057b72242/))
+- [Portfolio]([https://your-portfolio.com](https://neon-macaron-1f6c16.netlify.app/))
