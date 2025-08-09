@@ -7,6 +7,16 @@
 - 🎯 Currently learning JavaScript, Node.js, and Fastify
 - 💡 Passionate about AI, Big Data, and Web Development
 
+## 🛠️ My 2025 Tech Stack
+
+| Frontend                  | Backend                | AI / Cloud                 | Database         | Tools & Others      |
+|---------------------------|------------------------|----------------------------|------------------|---------------------|
+| HTML, CSS, JavaScript, TypeScript | Node.js (Express, Fastify), PHP, Flask | Docker, MinIO, Hadoop, TensorFlow.js, GCP, AWS | MySQL, MariaDB | Git, GitHub, Jenkins |
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,express,docker,aws,gcp,mysql,github,jenkins" />
+</div>
+
 ## 📈 My GitHub Stats
 ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsellami&show_icons=true&theme=radical)
 
