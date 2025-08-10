@@ -11,10 +11,10 @@
 
 | Frontend                  | Backend                | AI / Cloud                 | Database         | Tools & Others      |
 |---------------------------|------------------------|----------------------------|------------------|---------------------|
-| HTML, CSS, JavaScript, TypeScript | Node.js (Express, Fastify), PHP, Flask | Docker, MinIO, Hadoop, TensorFlow.js, GCP, AWS | MySQL, MariaDB | Git, GitHub, Jenkins |
+| HTML, CSS, Tailwind CSS, JavaScript, React, Next.js | Node.js (Express, Fastify) | Docker, MinIO, Hadoop,  AWS | MySQL, MariaDB , SQLite, PostgreSQL| Git, GitHub|
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,nodejs,express,docker,aws,gcp,mysql,github,jenkins" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,,nodejs,express,docker,aws,mysql,sqlite,postgresql,github" />
 </div>
 
 ##  My GitHub Stats
