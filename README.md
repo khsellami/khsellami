@@ -20,12 +20,7 @@
 ##  My GitHub Stats
 ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsellami&show_icons=true&theme=radical)
 
-## Coding Practice Profiles
-<div align="left">
-  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue)](https://www.hackerrank.com/profile/sellamikhadija14)
 
-
-</div>
 
 ##  Contact Me
 <div align="left">
