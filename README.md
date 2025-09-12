@@ -23,12 +23,7 @@
 
 
 ## Contact Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/khadija-sellami-057b72242/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://khadijasellami.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=globe" height="40" />
-  </a>
-</div>
+## Contact Me
+[LinkedIn](https://www.linkedin.com/in/khadija-sellami-057b72242/) | [Portfolio](https://khadijasellami.vercel.app/)
+
 
