@@ -28,6 +28,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://khadijasellami.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" height="40" />
+    <img src="https://skillicons.dev/icons?i=globe" height="40" />
   </a>
 </div>
+
