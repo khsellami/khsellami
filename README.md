@@ -21,8 +21,6 @@
 ![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsellami&show_icons=true&theme=radical)
 
 
-
-## Contact Me
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/khadija-sellami-057b72242/) | [Portfolio](https://khadijasellami.vercel.app/)
 
